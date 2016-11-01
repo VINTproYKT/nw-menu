@@ -1,0 +1,35 @@
+{
+  "author": {
+    "email": "vintproykt@gmail.com",
+    "name": "Rodion Borisov"
+  },
+  "bugs": {
+    "url": "https://github.com/VINTproYKT/nw-menu/issues"
+  },
+  "description": "Rapidly create menus in NW.js with dot-notated indexing for every single item.",
+  "homepage": "https://github.com/VINTproYKT/nw-menu#readme",
+  "keywords": [
+    "nw",
+    "node-webkit",
+    "app",
+    "menu",
+    "tree",
+    "nesting",
+    "rapid",
+    "util",
+    "interface"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "email": "vintproykt@gmail.com",
+      "name": "vintproykt"
+    }
+  ],
+  "name": "nw-menu",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VINTproYKT/nw-menu.git"
+  },
+  "version": "0.1.0"
+}
